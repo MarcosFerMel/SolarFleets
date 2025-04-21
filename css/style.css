@@ -14,6 +14,17 @@
  }
 
 /*** Spinner End ***/
+.btn-leer {
+    background-color: #2d70bf; /* el color base */
+    border-color: #2d70bf;
+    transition: background-color 0.3s ease;
+}
+
+.btn-leer:hover {
+    background-color:rgb(9, 72, 145);
+    border-color:rgb(9, 72, 145);
+}
+
 
 
 /*** Button Start ***/
